@@ -1,1 +1,1 @@
-# MMS
+# Multi Media Systems Course
